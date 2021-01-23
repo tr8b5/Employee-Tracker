@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start": "app.js",
   "dependencies": {
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1"
@@ -13,5 +14,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr8b5/Employee-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tr8b5/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/tr8b5/Employee-Tracker#readme"
 }
